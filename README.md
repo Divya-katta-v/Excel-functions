@@ -13,3 +13,16 @@ This was achieved using TRIM function
   using right function
 5	Create 'Enrollment year' field from 'Enrollment number'
 using mid function
+
+	The file with Day, datetime, countif functions
+	
+There are 500 different orders from an E-commerce website in the 'Practice'										
+										
+1	Create a column 'Order Month' to find out the month of the order Date
+	month function
+2	Count the number of orders in each Month and try to identify seasonality (Pattern) in your data	
+	days function
+3	Create a column 'Ship time' to find the processing time in days (Ordering date - shipping date) for each order								countif and using absolute reference	
+4	Calculate the average processing time for the given data									
+	avergae function									
+
